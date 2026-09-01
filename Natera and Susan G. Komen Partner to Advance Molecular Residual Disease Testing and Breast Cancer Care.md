@@ -1,0 +1,24 @@
+Precision diagnostics leader Natera, Inc. has entered into a national partnership with Susan G. Komen, the world’s leading non-profit [breast cancer](https://healthtechinsiders.com/natera-komen-partner-to-advance-breast-cancer-care/) organization, to accelerate public education, patient support, and scientific innovation across oncology. As part of the collaboration, Natera will serve as the 2026 Premier National Series Sponsor for Komen’s flagship Race for the Cure and MORE THAN PINK Walk events across the United States. Integrating advanced breast cancer research partnership initiatives with community-level advocacy aims to expand patient access to cutting-edge liquid biopsy technologies and broaden awareness around circulating tumor DNA (ctDNA) monitoring.
+
+The national alliance addresses a critical gap in cancer care by helping patients and healthcare providers understand how molecular residual disease (MRD) assessment can guide personalized treatment plans. While standard post-treatment surveillance relies on periodic imaging and physical exams, ctDNA testing identifies trace levels of microscopic disease long before clinical relapse becomes visible on conventional scans. By bridging clinical evidence with grassroots advocacy, the partnership equips survivors and newly diagnosed patients with actionable information regarding post-operative recurrence risk and therapy response.
+
+**Expanding Education Around Molecular Residual Disease and Signatera**
+-----------------------------------------------------------------------
+
+A core focus of the joint initiative is educating patients and clinicians on the clinical utility of Natera’s custom-built Signatera MRD test. Backed by more than 185 peer-reviewed publications across various solid tumor types, Signatera utilizes a personalized, tumor-informed approach to track patient-specific mutations via simple blood draws. In breast cancer care, serial MRD monitoring helps oncologists evaluate neoadjuvant therapy response, assess residual risk following surgical resection, and detect early recurrence months ahead of standard imaging tools.
+
+To translate these complex genomic concepts into accessible patient knowledge, Natera will support Susan G. Komen’s educational programs, including its widely distributed "Know More" series. These initiatives provide educational modules explaining how liquid biopsy testing works, what positive or negative ctDNA results signify, and how molecular monitoring can inform shared decision-making between patients and their care teams.
+
+**Accelerating Evidence Generation and Clinical Research**
+----------------------------------------------------------
+
+Beyond patient-facing awareness, the collaboration aligns with Natera’s ongoing commitment to robust clinical evidence generation. Researchers are actively conducting and planning multiple clinical trials to evaluate how serial ctDNA measurement can tailor adjuvant therapy strategies, preventing over-treatment in low-risk populations while identifying high-risk individuals who may benefit from early therapeutic escalation.
+
+Dr. Minetta Liu, Chief Medical Officer of Oncology and Early Cancer Detection at Natera, emphasized that partnering with Susan G. Komen reinforces the urgency of bringing meaningful diagnostic breakthroughs directly to clinical practice. Victoria Wolodzko Smart, Senior Vice President of Mission at Susan G. Komen, noted that combining Natera's precision medicine capabilities with Komen’s nationwide outreach network strengthens the organization’s ability to fund breakthrough research, advocate for equitable healthcare policies, and deliver vital support services to families facing a breast cancer diagnosis.
+
+**Addressing Global Disease Burden and Community Health Reach**
+---------------------------------------------------------------
+
+Breast cancer remains one of the most frequently diagnosed malignancies worldwide, with a woman in the United States receiving a diagnosis every two minutes. While advances in early detection and targeted therapies have significantly improved long-term survival rates, late-stage recurrence remains a major challenge across hormone receptor-positive, HER2-positive, and triple-negative breast cancer subtypes. Male breast cancer, though accounting for roughly 1% of total cases, is also often diagnosed at later stages due to low public awareness.
+
+By leveraging Komen’s community health infrastructure alongside Natera’s CLIA-certified genomic testing laboratories, the partnership aims to elevate standards of care nationwide. Unifying patient advocacy, clinical trial enrollment, and personalized biomarker tracking establishes a sustainable model for reducing cancer mortality and ensuring every patient receives tailored care throughout their treatment journey.
